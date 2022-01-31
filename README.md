@@ -7,3 +7,5 @@ This application recommends hotels in many cities around the world (mostly in th
 1. Download this github repo to your local machine. 
 2. Unzip the data.zip file
 3. 3.Open the file in your favourite code editor and run: streamlit run app.py
+
+![Alt text](recommend.gif)/![](recommend.gif)
